@@ -1,0 +1,80 @@
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Accountant.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Cashier.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Form1.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Information.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.AccountDetails.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CreateAccount.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.DeleteAccount.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.PersonalAccount.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SavingsAccount.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.StudentAccount.resources
+C:\Users\ASUS\source\repos\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Updateinfo.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Accountant.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.AccountDetails.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Cashier.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CreateAccount.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.DeleteAccount.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Form1.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Information.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.PersonalAccount.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SavingsAccount.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.StudentAccount.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Updateinfo.resources
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\ASUS\Downloads\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Accountant.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.AccountDetails.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Cashier.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CreateAccount.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.DeleteAccount.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Form1.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Information.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.PersonalAccount.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SavingsAccount.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.StudentAccount.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Updateinfo.resources
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\ASUS\Desktop\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Accountant.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.AccountDetails.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Cashier.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CreateAccount.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.DeleteAccount.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Form1.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Information.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.PersonalAccount.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SavingsAccount.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.StudentAccount.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Updateinfo.resources
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\ASUS\Desktop\C#\Zakia C#\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
